@@ -24,7 +24,7 @@ I'm presently 19 years old and pursuing a degree in Bachelor of Computer Science
 I'm also a budding open-source enthusiast. I learnt and am learning a lot from the open-source community and I love how collaboration and knowledge sharing happenes through open-source!
               
 - 💼 &nbsp; any advice or suggestion? do reach me! [email](mailto:aakashgirisc01@gmail.com) ;)
-- 💬 &nbsp; ask me about anything, i am happy to help and learn;
+- 💬 &nbsp; ask me about anything, i am happy to help and learn.
 
 # 🛠 **&nbsp;languages and tools:** 
 <i>Tools, languages, and other things that I like to work with.</i> 
@@ -35,5 +35,6 @@ I'm also a budding open-source enthusiast. I learnt and am learning a lot from t
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="30" alt="vscode" /></a>
 
-
 <br>
+
+<p><b>end of line.</b></p>
