@@ -17,7 +17,7 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Tech%20Enthusiast;Bibliophile;Always%20learning%20new%20things;Evolving;Perfecting&center=true&width=500&height=50"></a>
 </p>
 
-Hi, I'm [Aakash Aditya Giri]("https://github.com/acashgirii"), a coder in the making from India. Although I am new to programming, I take great interest and dedication in honing my skills in this domain. I am very passionate about making Web Development and Android App Development projects once I build a strong foundation in basic programming. This is an archive of my various endeavours as I try to tackle and explore this vast new frontier of coding!
+Hi, I'm [Aakash Aditya Giri](https://github.com/acashgirii), a coder in the making from India. Although I am new to programming, I take great interest and dedication in honing my skills in this domain. I am very passionate about making Web Development and Android App Development projects once I build a strong foundation in basic programming. This is an archive of my various endeavours as I try to tackle and explore this vast new frontier of coding!
 
 I'm presently 19 years old and pursuing a degree in Bachelor of Computer Science and Enginereeing with a specialization in Information Security as a sophomore at [Vellore Institute of Technology]("https://vit.ac.in/"). 
 
