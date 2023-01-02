@@ -37,4 +37,4 @@ I'm also a budding open-source enthusiast. I learnt and am learning a lot from t
 
 <br>
 
-<p><b>end of line.</b></p>
+<p>lets keep the grind going.</p>
