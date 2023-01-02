@@ -8,9 +8,9 @@ src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=fo
 <br />
 </h1>
 
-<p align='center'><em><b>Coming together is a beginning; keeping together is progress; working together is success.</b></em>
+<p align='center'><em><b>Veni, Vidi, Vici.</b></em>
 <br/>
- <em><b>- Henry Ford</b></em>
+ <em><b>- Julius Caesar</b></em>
 <br><br/>
 
 <p align="center">
