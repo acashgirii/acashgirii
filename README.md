@@ -15,7 +15,7 @@ Hi, I'm [Aakash Aditya Giri](https://github.com/acashgirii), a coder in the maki
 
 I'm presently 20 years old and pursuing a degree in Bachelor of Computer Science and Enginereeing with a specialization in Information Security as a pre-final year student at [Vellore Institute of Technology]("https://vit.ac.in/"). 
 
-I'm also a budding open-source enthusiast. I learnt and am learning a lot from the open-source community and I love how collaboration and knowledge sharing happenes through open-source!
+I'm also a budding open-source enthusiast. I learnt and am learning a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source!
               
 - 💼 &nbsp; any advice or suggestion? do reach me! [email](mailto:aakashgirisc01@gmail.com) ;)
 - 💬 &nbsp; ask me about anything, i am happy to help and learn.
