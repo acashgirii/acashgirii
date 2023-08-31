@@ -1,10 +1,5 @@
 # Hi, I'm Aakash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> 
 
-![Badge](https://visitor-counter-badge.vercel.app/api/acashgirii/acashgirii) <a href="https://www.github.com/acashgirii" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/acashgirii?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-aditya-giri-0b3a6a217/)
-
-
 <br />
 </h1>
 
